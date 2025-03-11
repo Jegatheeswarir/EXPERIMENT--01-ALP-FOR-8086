@@ -106,7 +106,7 @@ mov [6020h],ax
  
 mov bx, 0055h 
 mov al,[bx]
-mov AH,00H
+MOV AH,00H
 mov cl,00h  
 div cl        
 mov [6030h], al
