@@ -105,10 +105,11 @@ mov [6020h],ax
 
  
 mov bx, 0055h 
-mov ax,[bx]
-mov cx,0005h  
-div cx        
-mov [6030h], ax
+mov al,[bx]
+mov AH,00H
+mov cl,00h  
+div cl        
+mov [6030h], al
 
 
 ret
