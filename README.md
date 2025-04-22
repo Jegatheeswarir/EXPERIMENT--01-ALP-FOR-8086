@@ -1,11 +1,5 @@
-# EXPERIMENT 01 ALP-FOR-8086
-```
-Name : JEGATHEESWARI R
+# EXPERIMENT 01 ALP FOR 8086
 
-Roll no : 212223230092
-
-Date of experiment : 11/03/2025
-```
 ## Aim:
 
 To Write and execute ALP on fundamental arithmetic and logical operations
@@ -30,6 +24,10 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 10.	If no errors are found click on run the program and check the status of various flags in the flags tab as shown below 
 ![image](https://user-images.githubusercontent.com/36288975/189273277-113a2a33-4a40-4ff8-95a5-ecd3a1f504fe.png)
 ## Programs for arithmetic  operations
+```
+Name : JEGATHEESWARI R
+Roll no : 212223230092
+```
 ## Arithmetic operations of 8 bit numbers ALP
 ```
 org 100h
